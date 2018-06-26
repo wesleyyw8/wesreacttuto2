@@ -1,0 +1,14 @@
+4 WAYS  to create a react component
+
+es5 create class
+es6 class
+es5 stateless function
+es6 stateless function
+many more
+
+object.create
+mixins
+parasitic components
+stamplt
+
+re-select library
