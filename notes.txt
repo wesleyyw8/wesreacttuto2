@@ -12,3 +12,11 @@ parasitic components
 stamplt
 
 re-select library
+
+
+handling assync calls
+redux-thunk (easy to learn), redux-saga
+
+
+representation component
+container component
