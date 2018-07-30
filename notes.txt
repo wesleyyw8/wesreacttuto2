@@ -20,3 +20,6 @@ redux-thunk (easy to learn), redux-saga
 
 representation component
 container component
+
+
+more this architecture will pay off in scalability, maintainnability, clearity through consistency
