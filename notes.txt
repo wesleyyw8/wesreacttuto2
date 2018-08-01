@@ -23,3 +23,7 @@ container component
 
 
 more this architecture will pay off in scalability, maintainnability, clearity through consistency
+
+
+when do we use local state? 
+when the rest of the application doesnt care about it.
