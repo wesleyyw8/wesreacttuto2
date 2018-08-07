@@ -27,3 +27,14 @@ more this architecture will pay off in scalability, maintainnability, clearity t
 
 when do we use local state? 
 when the rest of the application doesnt care about it.
+
+
+"test": "mocha --reporter progress tools/testSetup.js \"src/**/*.test.js\"",
+
+progress less noise in the console
+spec more details in the console (when writing tests)
+
+
+testing connecting components I should just test the behavior because on the "html" there are just references to child components. So I should test something like (onclick, onscroll, etc)
+
+redux test recorder >> libary to create tests for your reducer!
