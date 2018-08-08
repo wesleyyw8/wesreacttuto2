@@ -38,3 +38,7 @@ spec more details in the console (when writing tests)
 testing connecting components I should just test the behavior because on the "html" there are just references to child components. So I should test something like (onclick, onscroll, etc)
 
 redux test recorder >> libary to create tests for your reducer!
+
+test the integration of the redux stuff
+
+js and css sourcemaps in order to debug in production
